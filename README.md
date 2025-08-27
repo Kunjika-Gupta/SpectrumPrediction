@@ -1,4 +1,4 @@
-# SpectrumAI-LSTM
+# SpectrumPrediction
 
 **Predicting Spectrum Occupancy Using LSTM Networks**
 
